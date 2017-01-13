@@ -68,7 +68,7 @@ All teaching of probability to undergraduate students is limited by some deep te
 $$S = (0, \infty)$$
 The sample space is *uncountable*, and not *all* subsets are allowed to be events. 
 
-This has to do with the hierarchy of sizes of infinite sets. If you're interested, there is a document with the lecture materials you can read.
+This has something to do with the hierarchy of sizes of infinite sets. If you're interested, there is a document with the lecture materials you can read.
 
 ## reminders (?!) of basic set theory
 
@@ -82,9 +82,9 @@ This has to do with the hierarchy of sizes of infinite sets. If you're intereste
 
 * If $A\cap B =\emptyset$ we say $A$ and $B$ are *disjoint* (aka *mutually exclusive*.)
 
-* If $A_1,A_2,A_3,\ldots$ are disjoint and 
+* If the collection of events $\{A_1,A_2,A_3,\ldots\}$ are disjoint and 
 $$\bigcup\limits_{i=1}^\infty A_i = S$$
-we say it is a *partition* of $S$.
+we say the collection is a *partition* of $S$.
 
 * All of the above work for finite and infinite collections
 
